@@ -1,0 +1,66 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Writing Fundamentals",
+        "slug": "writing-fundamentals",
+        "description": "Learn the basics of writing with our comprehensive beginner's course.",
+        "price": 99.99,
+        "instructor": "V.E. Schwab",
+        "isFeatured": true,
+        "image": "https://images.inc.com/uploaded_files/image/1024x576/getty_1035462384_395932.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Outline for Beginners",
+        "slug": "outline-for-beginners",
+        "description": "Start your storytelling journey with foundational outline skills taught by expert instructors.",
+        "price": 109.99,
+        "instructor": "SenLinYu",
+        "isFeatured": false,
+        "image": "https://images.unsplash.com/photo-1518805672493-adcd9abdc9e0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHNjcmlwdHxlbnwwfHwwfHx8MA%3D%3D" 
+      },
+      
+      {
+        "id": 3,
+        "title": "Immersion Mastery",
+        "slug": "immersion-mastery",
+        "description": "Master immersive interaction with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Hayao Miyazaki",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1512331455279-c8ae8178f586?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDc4fHx8ZW58MHx8fHx8"
+      },
+      {
+        "id": 4,
+        "title": "World Building",
+        "slug": "world building",
+        "description": "Learn the art of world building with this course designed for all genres.",
+        "price": 139.99,
+        "instructor": "R.F Kuang",
+        "isFeatured": true,
+        "image": "https://images.unsplash.com/photo-1578701190956-49a6d98c9702?q=80&w=1471&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      },
+      {
+        "id": 5,
+        "title": "Character Design and Development",
+        "slug": "character-design-development",
+        "description": "Dive into the story with this introductory course on the basics of character design and development.",
+        "price": 149.99,
+        "instructor": "Tabitha Suzuma",
+        "isFeatured": true,
+        "image": "https://images.pexels.com/photos/28820810/pexels-photo-28820810/free-photo-of-creative-designer-using-graphic-tablet-stylus.jpeg?auto=compress&cs=tinysrgb&w=600"
+      },
+      {
+        "id": 6,
+        "title": "Performance Essentials",
+        "slug": "performance-essentials",
+        "description": "Learn the essentials of captivating performance to express your creativity.",
+        "price": 159.99,
+        "instructor": "Yana Toboso",
+        "isFeatured": true,
+        "image": "https://images.pexels.com/photos/12683789/pexels-photo-12683789.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+      }
+    
+    ]
+  }
